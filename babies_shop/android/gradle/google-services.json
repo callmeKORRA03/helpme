@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "620271729461",
+    "project_id": "babyshop-fe345",
+    "storage_bucket": "babyshop-fe345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620271729461:android:5b626d34718b5b3e1cea7c",
+        "android_client_info": {
+          "package_name": "com.example.babies_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620271729461-jjqaf9svfbs7hgcfoq1nmdlr1c5fca6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babies_shop",
+            "certificate_hash": "1273ec63a6007124ae329b514d7b7d71d8347777"
+          }
+        },
+        {
+          "client_id": "620271729461-pt5pknrqidcc0nh9i0ppbhupu1mm3qrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYQpoIoVpKcnd7UqDBCYiIYhYWSbJHs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620271729461-pt5pknrqidcc0nh9i0ppbhupu1mm3qrp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620271729461-ptoqur3r36b1v9el1ucapki4r3ga683t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.babiesShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
